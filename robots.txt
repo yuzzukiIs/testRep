@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+# https://netpeak.net/ru/blog/chto-takoe-robots-txt-i-zachem-on-voobshche-nuzhen/
+
+User-agent: *
+Disallow:
